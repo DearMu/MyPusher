@@ -11,11 +11,11 @@ start_date = os.environ['START_DATE']
 city = os.environ['CITY']
 birthday = os.environ['BIRTHDAY']
 
-app_id = os.environ["APP_ID"]
-app_secret = os.environ["APP_SECRET"]
+app_id = os.environ["wxc1774bdfa40ebf04"]
+app_secret = os.environ["86cc0c7aedc89185af382cd2c48fa9cd"]
 
-user_id = os.environ["USER_ID"]
-template_id = os.environ["TEMPLATE_ID"]
+user_id = os.environ["oS5vp6c_cpxB_MkpR6BakguPq_jE"]
+template_id = os.environ["osMU9nPr9bTXhLR9tzBdF4ISddJlSbRfqLZE24vr16I"]
 
 
 def get_weather():
